@@ -26,8 +26,8 @@
 ## Хочу учить финский: 
 - [selvapyy](https://t.me/selvapyy)
 - [lingust](https://lingust.ru/suomi/suomen-tunteja/kappale0)
-- [suomesta](suomesta.ru)
-- [uusikielemme](uusikielemme.fi)             
+- [suomesta](https://suomesta.ru)
+- [uusikielemme](https://uusikielemme.fi)             
             
 ## Куда сходить и сделать всё.
 - [ihhelsinki](https://www.ihhelsinki.fi/)
@@ -36,6 +36,6 @@
 - [dirty](https://finland.d3.ru/finskie-pdd-bolshoi-faq-1678069/?sorting=rating)
 
 ## Разное
-- [copart](copart.fi) аукцион тачек после страховых случаев (и не только)
+- [copart](https://copart.fi) аукцион тачек после страховых случаев (и не только)
 
 
