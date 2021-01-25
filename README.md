@@ -35,4 +35,7 @@
 ## Финские ПДД: большой FAQ
 - [dirty](https://finland.d3.ru/finskie-pdd-bolshoi-faq-1678069/?sorting=rating)
 
+## Разное
+- [copart](copart.fi) аукцион тачек после страховых случаев (и не только)
+
 
